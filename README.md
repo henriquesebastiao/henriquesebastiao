@@ -1,14 +1,17 @@
-## Hi! I'm Henrique Sebastião
-<h3>Welcome to my GitHub profile!</h3>
+<em>Nullius in Verba!</em>
 
-##### Start here:
+## Olá! Sou Henrique Sebastião
+<h3>Bem-vindo ao meu perfil do GitHub!</h3>
 
-🔭 &#160; I currently work as a <b>telecommunications technician</b>. <br>
-📖 &#160; I am currently learning more about Back-End and Front-End. <br>
-💬 &#160; Ask me about: Mikrotik, wireless networks, telecommunications. <br>
-📫 &#160; How to contact me: henriquesebastiao@onionmail.com <br>
-😄 &#160; Pronouns: he / his <br>
-⚡ &#160; Curiosity: I'm not ashamed of not knowing how to swim, I have hate. <br>
+##### Comece por aqui:
+
+🔭 &#160; Atualmente trabalho como <strong>técnico de redes</strong>. <br>
+📖 &#160; Estou estudando mais sobre Python e desenvolvimento web. <br>
+🎓 &#160; Graduando em Ciência da Computação. <br>
+💬 &#160; Pergunte-me sobre os mais variados assuntos, se eu não souber responder, encontraremos a solução juntos. <br>
+📫 &#160; <strong>Conecte-se comigo:</strong> henriquesebastiao.dev@gmail.com <br>
+😄 &#160; Pronomes: ele / dele. <br>
+⚡ &#160; Curiosidade: Um apaixonado pelo cosmos ☄️. <br>
 
 <div>
   <a href="https://github.com/henriquesebastiao">
@@ -18,7 +21,7 @@
  
 <div style="display: inline_block"><br>
 <a href="https://github.com/henriquesebastiao">
-  <h4>Skills and Tools:</h4>
+  <h4>Técnologias e Ferramentas:</h4>
   <img align="center" alt="Hick-C" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Hick-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Hick-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
