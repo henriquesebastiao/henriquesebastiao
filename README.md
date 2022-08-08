@@ -6,10 +6,10 @@
 ##### Comece por aqui:
 
 🔭 &#160; Atualmente trabalho como <strong>técnico de redes</strong>. <br>
-📖 &#160; Estou estudando mais sobre Python e desenvolvimento web. <br>
+🌱 &#160; Estou estudando mais sobre Python e desenvolvimento web. <br>
 🎓 &#160; Graduando em Ciência da Computação. <br>
 💬 &#160; Pergunte-me sobre os mais variados assuntos, se eu não souber lhe responder, encontraremos a solução juntos. <br>
-📫 &#160; <strong>Conecte-se comigo:</strong> henriquesebastiao.dev@gmail.com <br>
+📨 &#160; <strong>Conecte-se comigo:</strong> henriquesebastiao.dev@gmail.com <br>
 😄 &#160; Pronomes: ele / dele. <br>
 ⚡ &#160; Curiosidade: Um apaixonado pelo cosmos ☄️. <br>
 
