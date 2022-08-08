@@ -18,6 +18,9 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=henriquesebastiao&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquesebastiao&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
+
+ <!-- ![Profile View Counter](https://komarev.com/ghpvc/?username=henriquesebastiao)-->
+
 <div style="display: inline_block"><br>
 <a href="https://github.com/henriquesebastiao">
   <h4>Técnologias e Ferramentas:</h4>
