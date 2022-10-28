@@ -1,5 +1,3 @@
-<em>Nullius in Verba!</em>
-
 ## Olá! Sou Henrique Sebastião
 <h3>Bem-vindo ao meu perfil do GitHub!</h3>
 
