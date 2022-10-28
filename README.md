@@ -11,15 +11,15 @@
 💬 &#160; Pergunte-me sobre os mais variados assuntos, se eu não souber lhe responder, encontraremos a solução juntos <br>
 📨 &#160; <strong>Conecte-se comigo:</strong> <a href="mailto:contato@henriquesebastiao.com">contato@henriquesebastiao.com</a><br>
 😄 &#160; Pronomes: ele / dele <br>
-⚡ &#160; Curiosidade: Um apaixonado pelo cosmos ☄️ <br>
+⚡ &#160; Curiosidade: Um apaixonado pelo cosmos ☄️ <br><br>
 
 <!-- GITHUB STATS -->
 <div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=henriquesebastiao&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&locale=pt-BR&cache_seconds=7200">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquesebastiao&layout=compact&theme=github_dark&locale=pt-BR"/>
+  <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=henriquesebastiao&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&locale=pt-BR&cache_seconds=7200"> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquesebastiao&layout=compact&theme=github_dark&locale=pt-BR"/>
 </div>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <h4>Técnologias e Ferramentas:</h4>
   <img align="center" alt="C" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
