@@ -6,7 +6,10 @@
 🔭 &#160; Atualmente trabalho como <strong>técnico de redes</strong> <br>
 🌱 &#160; Estou estudando mais sobre desenvolvimento backend <br>
 🎓 &#160; Graduando em Ciência da Computação <br>
-<br><br>
+💬 &#160; Pergunte-me sobre os mais variados assuntos, se eu não souber lhe responder, encontraremos a solução juntos <br>
+📨 &#160; <strong>Conecte-se comigo:</strong> <a href="mailto:contato@henriquesebastiao.com">contato@henriquesebastiao.com</a><br>
+😄 &#160; Pronomes: ele / dele <br>
+⚡ &#160; Curiosidade: Um apaixonado pelo cosmos ☄️ <br><br>
 
 <!-- GITHUB STATS -->
 <div>
