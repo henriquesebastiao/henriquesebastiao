@@ -11,11 +11,11 @@
 😄 &#160; Pronomes: ele / dele <br>
 ⚡ &#160; Curiosidade: Um apaixonado pelo cosmos ☄️ <br><br>
 
-<!-- GITHUB STATS -->
+<!-- GITHUB STATS
 <div>
-  <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=henriquesebastiao&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&locale=pt-BR&cache_seconds=7200"> -->
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=henriquesebastiao&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&locale=pt-BR&cache_seconds=7200">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquesebastiao&layout=compact&theme=github_dark&locale=pt-BR"/>
-</div>
+</div> -->
 
 <div style="display: inline_block">
   <h4>Técnologias e Ferramentas:</h4>
