@@ -1,6 +1,6 @@
 ## Olá! Sou Henrique Sebastião
 
-#### Comece por aqui:
+### Comece por aqui:
 
 - Atualmente trabalho como `Técnico de Redes`
 - Estou estudando mais sobre desenvolvimento `backend`
