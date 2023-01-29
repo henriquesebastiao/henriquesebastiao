@@ -1,14 +1,11 @@
 ## Olá! Sou Henrique Sebastião
-<h3>Bem-vindo ao meu perfil do GitHub!</h3>
 
 #### Comece por aqui:
 
-🔭 &#160; Atualmente trabalho como <strong>técnico de redes</strong> <br>
-🌱 &#160; Estou estudando mais sobre desenvolvimento backend <br>
-🎓 &#160; Graduando em Ciência da Computação <br>
-💬 &#160; Pergunte-me sobre os mais variados assuntos, se eu não souber lhe responder, encontraremos a solução juntos <br>
-📨 &#160; <strong>Conecte-se comigo:</strong> <a href="mailto:contato@henriquesebastiao.com">contato@henriquesebastiao.com</a><br>
-⚡ &#160; Curiosidade: Um apaixonado pelo cosmos ☄️ <br><br>
+- Atualmente trabalho como `Técnico de Redes`
+- Estou estudando mais sobre desenvolvimento `backend`
+- Graduando em `Ciência da Computação`
+- <strong>Conecte-se comigo:</strong> <a href="mailto:contato@henriquesebastiao.com">contato@henriquesebastiao.com</a><br><br>
 
 <!-- GitHub Stats -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquesebastiao&layout=compact&theme=github_dark&locale=pt-BR"/>
