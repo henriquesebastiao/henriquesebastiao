@@ -4,8 +4,7 @@
 
 - Atualmente trabalho como `Técnico de Redes`
 - Estou estudando mais sobre desenvolvimento `backend`
-- Graduando em `Ciência da Computação`
-- <strong>Conecte-se comigo:</strong> <a href="mailto:contato@henriquesebastiao.com">contato@henriquesebastiao.com</a><br><br>
+- Graduando em `Ciência da Computação` <br><br>
 
 <!-- GitHub Stats -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquesebastiao&layout=compact&theme=github_dark&locale=pt-BR"/>
