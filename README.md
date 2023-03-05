@@ -1,10 +1,12 @@
-## Olá! Sou Henrique Sebastião
+## Henrique Sebastião
+Brazilian, 19 years old.
 
-### Comece por aqui:
+Colniza / Mato Grosso, BR.
 
-- Atualmente trabalho como `Técnico de Redes`
-- Estou estudando mais sobre desenvolvimento `backend`
-- Graduando em `Ciência da Computação` <br><br>
+**E-mail:** [henriquesebastiao.web@gmail.com](mailto:henriquesebastiao.web+contatogithub@gmail.com)
+
+**LinkedIn:** https://www.linkedin.com/in/henriquesebastiao/
+
 
 <!-- GitHub Stats -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquesebastiao&layout=compact&theme=github_dark&locale=pt-BR"/>
@@ -18,5 +20,4 @@
   <img align="center" alt="HTML" height="30" width="40" src="img/html.svg">
   <img align="center" alt="CSS" height="30" width="40" src="img/css.svg">
   <img align="center" alt="SQLite" height="30" width="40" src="img/sqlite.svg">
-  
 </div>
