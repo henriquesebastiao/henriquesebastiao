@@ -1,4 +1,5 @@
 ## Henrique Sebastião
+
 Brazilian, 19 years old.
 
 Colniza / Mato Grosso, BR.
@@ -6,10 +7,6 @@ Colniza / Mato Grosso, BR.
 **E-mail:** [henriquesebastiao.web@gmail.com](mailto:henriquesebastiao.web+contatogithub@gmail.com)
 
 **LinkedIn:** https://www.linkedin.com/in/henriquesebastiao/
-
-
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquesebastiao&layout=compact&theme=github_dark&locale=pt-BR"/>
 
 <!-- Ícones de Tecnologias -->
 <div style="display: inline_block">
