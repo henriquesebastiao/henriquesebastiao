@@ -4,11 +4,11 @@
     
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=henriquesebastiao&show_icons=true&&theme=github_dark&locale=pt-BR" />
     
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquesebastiao&layout=compact&langs_count=8&theme=github_dark&locale=pt-BR"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquesebastiao&layout=compact&langs_count=6&theme=github_dark&locale=pt-BR"/>
 </div>
 
 <!-- Ícones de Tecnologias -->
-<div style="display: inline_block">
+<!-- <div style="display: inline_block">
   <h4>Técnologias e Ferramentas:</h4>
   <img align="center" alt="Python" height="30" width="40" src="img/python.svg">
   <img align="center" alt="HTML" height="30" width="40" src="img/html.svg">
