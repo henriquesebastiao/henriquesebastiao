@@ -8,6 +8,6 @@ Gosto de criar coisas com Python, bancos de dados SQL, Docker e estruturas de ba
 
 Você pode me encontrar em:
 
-* [Meu site: henriquesebastiao.com](https://henriquesebastiao.com)
+* [Meu site: henriquesebastiao.com](https://henriquesebastiao.com) (atualmente em desenvolvimento)
 * [Twitter como @hick_hs](https://twitter.com/hick_hs)
 * [Linkedin](https://www.linkedin.com/in/henriquesebastiao/)
