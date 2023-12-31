@@ -38,4 +38,6 @@ Você pode me encontrar em:
   <a href="https://www.instagram.com/hick.hs/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" target="_blank"></a>
   <!-- EMAIL -->
   <a href="mailto:contato@henriquesebastiao.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" target="_blank"></a>
+  <!-- HACKER RANK -->
+  <a href="https://www.hackerrank.com/profile/hick_hs" target="_blank"><img src="https://img.shields.io/badge/Hackerrank-32C766?logo=HackerRank&logoColor=white" target="_blank"></a>
 </div>
