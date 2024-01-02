@@ -4,7 +4,7 @@ Sou desenvolvedor de software e graduando em Ciência da Computação no Brasil.
 
 Gosto de criar coisas com Python, bancos de dados SQL, Docker e estruturas de back-end modernas para resolver problemas das pessoas ao meu redor. 🚀
 
-Atualmente tenho dedicado grande parte do meu tempo ao estudo do [Django](https://www.djangoproject.com/) para desenvolvimento web, ao mesmo tempo em que desenvolvo o [**Poupy**](https://github.com/henriquesebastiao/poupy/) para fins de aprendizado. 🎓
+Atualmente tenho dedicado grande parte do meu tempo ao estudo do [Django](https://www.djangoproject.com/) para desenvolvimento web.
 
 Você pode me encontrar em:
 
