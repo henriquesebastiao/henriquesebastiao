@@ -8,7 +8,7 @@ Atualmente tenho dedicado grande parte do meu tempo ao estudo do [Django](https:
 
 Você pode me encontrar em:
 
-* [Meu site: henriquesebastiao.com](https://henriquesebastiao.com) (atualmente em desenvolvimento)
+* [Meu blog: henriquesebastiao.com](https://henriquesebastiao.com)
 * [Twitter como @hick_hs](https://twitter.com/hick_hs)
 * [Linkedin](https://www.linkedin.com/in/henriquesebastiao/)
 
@@ -18,7 +18,6 @@ Você pode me encontrar em:
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Django" height="30" width="40" src="https://www.svgrepo.com/show/353657/django-icon.svg">
   <img align="center" alt="Pytest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
