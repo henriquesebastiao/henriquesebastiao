@@ -1,4 +1,4 @@
-### Olá! Eu sou [@henriquesebastiao](https://twitter.com/hick_hs) 👋
+### Olá! Eu sou Henrique Sebastião 👋
 
 Sou desenvolvedor de software e graduando em Ciência da Computação no Brasil. 🇧🇷
 
@@ -9,7 +9,6 @@ Atualmente tenho dedicado grande parte do meu tempo ao estudo do [Django](https:
 Você pode me encontrar em:
 
 * [Meu blog: henriquesebastiao.com](https://henriquesebastiao.com)
-* [Twitter como @hick_hs](https://twitter.com/hick_hs)
 * [Linkedin](https://www.linkedin.com/in/henriquesebastiao/)
 * [Email](mailto:contato@henriquesebastiao.com)
 
@@ -32,10 +31,6 @@ Você pode me encontrar em:
 <div style="display: inline_block">
   <h4>Minhas redes sociais:</h4>
   <a href="https://www.linkedin.com/in/henriquesebastiao/" target="_blank"><img src="img/linkedIn.svg" target="_blank"></a>
-  <!-- TWITTER -->
-  <a href="https://twitter.com/hick_hs" target="_blank"><img src="img/twitter.svg" target="_blank"></a>
-  <!-- INSTAGRAM -->
-  <a href="https://www.instagram.com/hick.hs/" target="_blank"><img src="img/instagram.svg" target="_blank"></a>
   <!-- HACKER RANK -->
   <a href="https://www.hackerrank.com/profile/hick_hs" target="_blank"><img src="img/hackerrank.svg" target="_blank"></a>
 </div>
