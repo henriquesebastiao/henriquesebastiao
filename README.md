@@ -22,7 +22,6 @@ Você pode me encontrar em:
   <img align="center" alt="HTML" height="30" width="40" src="img/html.svg">
   <img align="center" alt="CSS" height="30" width="40" src="img/css.svg">
   <img align="center" alt="Bootstrap" height="30" width="40" src="img/bootstrap.svg">
-  <img align="center" alt="SQLite" height="30" width="40" src="img/sqlite.svg">
   <img align="center" alt="PostgreSQL" height="30" width="40" src="img/postgresql.svg">
   <img align="center" alt="Docker" height="30" width="40" src="img/docker.svg">
   <img align="center" alt="Docker" width="30px" src="img/archlinux.svg">
