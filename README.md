@@ -16,7 +16,7 @@ Você pode me encontrar em:
 
 <!-- Ícones de Tecnologias -->
 <div style="display: inline_block">
-  <h4>Tecnologias e ferramentas que utilizo:</h4><
+  <h4>Tecnologias e ferramentas que utilizo:</h4>
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   <img align="center" alt="Django" height="30" width="40" src="img/django.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
