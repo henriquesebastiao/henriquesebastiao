@@ -3,12 +3,17 @@
 Sou desenvolvedor de software e graduando em Ciência da Computação no Brasil. 🇧🇷
 
 Gosto de criar coisas com Python, bancos de dados SQL, Docker e estruturas de back-end modernas para resolver problemas
-das pessoas ao meu redor. 🚀
+das pessoas ao meu redor. Ultimamente também venho me aventuando no estudo e desenvolvimento para embarcados como Arduino, ESP32, etc...
 
-Atualmente tenho dedicado grande parte do meu tempo de estudo ao [Django](https://www.djangoproject.com/) para
-desenvolvimento web.
+Atualmente, tenho dedicado grande parte do meu tempo de estudo às atividades acadêmicas, estudando em paralelo tecnologias como Python, Django, C, C++, e um pouco da tríade do front-end (JavaScript, HTML e CSS).
 
-Você pode me encontrar em:
+#### Meus principais projetos pessoais:
+
+* [Netmikro](https://netmikro.henriquesebastiao.com/): Uma API Python para gerenciamento de roteadores Mikrotik.
+* [Saturn](https://github.com/henriquesebastiao/saturn): Firmware de red team para o Cardputer, incluindo ataques wi-fi e bluetooth, infravermelho e várias outras funções.
+* [Skyport](https://skyport.henriquesebastiao.com/): CLI para obter informações sobre corpos celestes.
+
+#### Você pode me encontrar em:
 
 * [Meu blog: henriquesebastiao.com](https://henriquesebastiao.com)
 * [Linkedin](https://www.linkedin.com/in/henriquesebastiao/)
@@ -19,6 +24,7 @@ Você pode me encontrar em:
   <h4>Tecnologias e ferramentas que utilizo:</h4>
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   <img align="center" alt="Django" height="30" width="40" src="img/django.svg">
+  <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
