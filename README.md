@@ -11,6 +11,7 @@ Atualmente, tenho dedicado grande parte do meu tempo de estudo às atividades ac
 
 * [Poupy](https://github.com/henriquesebastiao/poupy): Um aplicativo web para gestão de orçamento pessoal feito com Django.
 * [Statbov](https://github.com/henriquesebastiao/statbov): Uma plataforma para acompanhamento de performance de bovinos desenvolvida com Django e Bootstrap.
+* [Timesheet](https://github.com/henriquesebastiao/timesheet): Um sistema simples de controle de ponto eletrônico e exportação da folha de ponto em PDF usando Django Admin.
 * [Netmikro](https://github.com/henriquesebastiao/netmikro): Uma API Python para administração de roteadores Mikrotik.
 * [Skyport](https://github.com/henriquesebastiao/skyport): CLI para obter informações sobre corpos celestes.
 * [Saturn](https://github.com/henriquesebastiao/saturn): Firmware de red team para o Cardputer, incluindo funcionalidades Wi-Fi e bluetooth e muito mais.
