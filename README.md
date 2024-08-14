@@ -3,15 +3,17 @@
 Sou desenvolvedor de software e graduando em Ciência da Computação no Brasil. 🇧🇷
 
 Gosto de criar coisas com Python, bancos de dados SQL, Docker e estruturas de back-end modernas para resolver problemas
-das pessoas ao meu redor. Ultimamente também venho me aventuando no estudo e desenvolvimento para embarcados como Arduino, ESP32, etc...
+das pessoas ao meu redor. Ultimamente também venho me aventurando no estudo e desenvolvimento para embarcados como Arduino, ESP32, etc...
 
-Atualmente, tenho dedicado grande parte do meu tempo de estudo às atividades acadêmicas, estudando em paralelo tecnologias como Python, Django, C, C++, e um pouco da tríade do front-end (JavaScript, HTML e CSS).
+Atualmente, tenho dedicado grande parte do meu tempo de estudo às atividades acadêmicas, estudando em paralelo tecnologias como Python, Django, FastAPI, C, C++,e um pouco da tríade do front-end (JavaScript, HTML e CSS).
 
 #### Meus principais projetos pessoais:
 
-* [Netmikro](https://netmikro.henriquesebastiao.com/): Uma API Python para gerenciamento de roteadores Mikrotik.
-* [Saturn](https://github.com/henriquesebastiao/saturn): Firmware de red team para o Cardputer, incluindo ataques wi-fi e bluetooth, infravermelho e várias outras funções.
+* [Poupy](https://github.com/henriquesebastiao/poupy): Um aplicativo web para gestão de orçamento pessoal feito com Django.
+* [Statbov](https://github.com/henriquesebastiao/statbov): Uma plataforma para acompanhamento de performance de bovinos desenvolvida com Django e Bootstrap.
+* [Netmikro](https://github.com/henriquesebastiao/netmikro): Uma API Python para administração de roteadores Mikrotik.
 * [Skyport](https://skyport.henriquesebastiao.com/): CLI para obter informações sobre corpos celestes.
+* [Saturn](https://github.com/henriquesebastiao/saturn): Firmware de red team para o Cardputer, incluindo funcionalidades Wi-Fi e bluetooth e muito mais.
 
 #### Você pode me encontrar em:
 
@@ -23,6 +25,7 @@ Atualmente, tenho dedicado grande parte do meu tempo de estudo às atividades ac
   <h4>Tecnologias e ferramentas que utilizo:</h4>
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   <img align="center" alt="Django" height="30" width="40" src="img/django.svg">
+  <img align="center" alt="FastAPI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg">
   <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
