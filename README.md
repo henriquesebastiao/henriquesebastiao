@@ -18,7 +18,6 @@ Atualmente, tenho dedicado grande parte do meu tempo de estudo às atividades ac
 
 #### Você pode me encontrar em:
 
-* [Meu blog: henriquesebastiao.com](https://henriquesebastiao.com)
 * [Linkedin](https://www.linkedin.com/in/henriquesebastiao/)
 * [Email](mailto:contato@henriquesebastiao.com)
 
