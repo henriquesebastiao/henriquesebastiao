@@ -26,15 +26,13 @@ Atualmente, tenho dedicado grande parte do meu tempo de estudo às atividades ac
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   <img align="center" alt="Django" height="30" width="40" src="img/django.svg">
   <img align="center" alt="FastAPI" height="30" width="40" style="color: green;" src="img/fastapi.svg">
-  <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+  <img align="center" alt="JS" height="30" width="40" src="img/js.svg">
+    <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
-  <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg">
+  <img align="center" alt="Arduino" height="30" width="40" src="img/arduino.svg">
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg">
-  <img align="center" alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg">
+  <img align="center" alt="Docker" height="30" width="40" src="img/docker.svg">
+  <img align="center" alt="Docker" width="30px" src="img/arch.svg">
 </div>
 
 <div style="display: inline_block">
