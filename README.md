@@ -24,8 +24,8 @@ Atualmente, tenho dedicado grande parte do meu tempo de estudo às atividades ac
 #### Minhas estatísticas:
 <!-- GitHub Stats Docs: https://github.com/anuraghazra/github-readme-stats -->
 <div style="display: inline_block">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=henriquesebastiao&theme=github_dark&show_icons=true&icon_color=4B8DDA&border_color=4B8DDA&locale=pt-br&custom_title=Contribuições&border_radius=10" target="_blank" alt="GitHub Stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquesebastiao&locale=pt-br&layout=compact&theme=github_dark&exclude_repo=data-science-from-scrath,fastapi-do-zero,henriquesebastiao.github.io,uart,modernizacao-manejo,RouterBOARD-Scripts&border_color=4B8DDA&border_radius=10&langs_count=8" target="_blank" alt="Mosty used languages">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=henriquesebastiao&theme=github_dark&show_icons=true&icon_color=4B8DDA&border_color=3D444D&locale=pt-br&custom_title=Contribuições&border_radius=5" target="_blank" alt="GitHub Stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquesebastiao&locale=pt-br&layout=compact&theme=github_dark&exclude_repo=data-science-from-scrath,fastapi-do-zero,henriquesebastiao.github.io,uart,modernizacao-manejo,RouterBOARD-Scripts&border_color=3D444D&border_radius=5&langs_count=8" target="_blank" alt="Mosty used languages">
 </div>
 
 <div style="display: inline_block; pointer-events: none;">
