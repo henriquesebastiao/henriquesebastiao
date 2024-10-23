@@ -1,4 +1,4 @@
-### Olá! Eu sou Henrique Sebastião 👋
+### Olá! Eu sou [Henrique Sebastião](https://x.com/hick_hs) 👋
 
 Sou desenvolvedor de software e graduando em Ciência da Computação no Brasil. 🇧🇷
 
