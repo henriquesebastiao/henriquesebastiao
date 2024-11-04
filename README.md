@@ -9,7 +9,7 @@ Atualmente, tenho dedicado grande parte do meu tempo de estudo às atividades ac
 
 #### Meus principais projetos pessoais:
 
-* [Poupy](https://github.com/henriquesebastiao/poupy): Um aplicativo web para gestão de orçamento pessoal feito com Django.
+* [Poupy](https://poupy.henriquesebastiao.com/): Um aplicativo web para gestão de orçamento pessoal feito com Django.
 * [Statbov](https://github.com/henriquesebastiao/statbov): Uma plataforma para acompanhamento de performance de bovinos desenvolvida com Django e Bootstrap.
 * [Timesheet](https://github.com/henriquesebastiao/timesheet): Um sistema simples de ponto eletrônico e exportação da folha de ponto em PDF usando Django Admin.
 * [Netmikro](https://github.com/henriquesebastiao/netmikro): Uma API Python para administração de roteadores Mikrotik.
