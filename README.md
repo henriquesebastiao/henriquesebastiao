@@ -10,10 +10,11 @@ Atualmente, tenho dedicado grande parte do meu tempo de estudo às atividades ac
 #### Meus principais projetos pessoais:
 
 * [Poupy](https://poupy.henriquesebastiao.com/): Um aplicativo web para gestão de orçamento pessoal feito com Django.
-* [Statbov](https://github.com/henriquesebastiao/statbov): Uma plataforma para acompanhamento de performance de bovinos desenvolvida com Django e Bootstrap.
+* [Modernização do Manejo API](https://github.com/henriquesebastiao/modernizacao-manejo-api): Uma API async robusta para gestão e análise de performance de rebanhos construída com FastAPI.
 * [Timesheet](https://github.com/henriquesebastiao/timesheet): Um sistema simples de ponto eletrônico e exportação da folha de ponto em PDF usando Django Admin.
-* [Netmikro](https://github.com/henriquesebastiao/netmikro): Uma API Python para administração de roteadores Mikrotik.
-* [Skyport](https://github.com/henriquesebastiao/skyport): CLI para obter informações sobre corpos celestes.
+* [Statbov](https://github.com/henriquesebastiao/statbov): Uma plataforma para acompanhamento de performance de bovinos desenvolvida com Django e Bootstrap.
+* [Netmikro](https://netmikro.henriquesebastiao.com/en/latest/): Uma API Python para administração de roteadores Mikrotik.
+* [Skyport](https://skyport.henriquesebastiao.com/en/latest/): CLI para obter informações sobre corpos celestes.
 * [Saturn](https://github.com/henriquesebastiao/saturn): Firmware de red team para o Cardputer, incluindo funcionalidades Wi-Fi e bluetooth e muito mais.
 
 #### Você pode me encontrar em:
