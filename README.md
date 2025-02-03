@@ -41,9 +41,3 @@ Atualmente, tenho dedicado grande parte do meu tempo de estudo às atividades ac
   <img align="center" alt="Arduino" height="30" width="40" src="img/arduino.svg">
   <img align="center" alt="Arch Linux" width="30px" src="img/arch.svg">
 </div>
-
-<div style="display: inline_block">
-  <h4>Minhas redes sociais:</h4>
-  <a href="https://www.linkedin.com/in/henriquesebastiao/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn"></a>
-  <a href="https://bolha.us/@henriquesebastiao" target="_blank"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=flat&logo=mastodon&logoColor=white" target="_blank" alt="Mastodon"></a>
-</div>
