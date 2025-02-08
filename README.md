@@ -1,4 +1,8 @@
-### Olá! Eu sou [Henrique Sebastião](https://x.com/hick_hs) 👋
+### Olá! Eu sou [Henrique Sebastião](https://henriquesebastiao.com/about/) 👋
+
+ ![Visits](https://komarev.com/ghpvc/?username=henriquesebastiao&label=Profile%20Visits&color=blue&style=flat)
+ <a href="https://bolha.us/@henriquesebastiao" target="_blank"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=flat&logo=mastodon&logoColor=white" target="_blank" alt="Mastodon"></a>
+ <a href="https://hub.docker.com/u/henriquesebastiao" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" target="_blank" alt="Docker"></a>
 
 Sou desenvolvedor de software e graduando em Ciência da Computação no Brasil. 🇧🇷
 
@@ -7,18 +11,11 @@ das pessoas ao meu redor. Ultimamente também venho me aventurando no estudo e d
 
 Atualmente, tenho dedicado grande parte do meu tempo de estudo às atividades acadêmicas, estudando em paralelo tecnologias como [Python](https://github.com/henriquesebastiao?tab=repositories&q=&type=&language=python&sort=), [Django](https://github.com/henriquesebastiao?tab=repositories&q=django&type=&language=&sort=), [FastAPI](https://github.com/henriquesebastiao?tab=repositories&q=fastapi&type=&language=&sort=), [C](https://github.com/henriquesebastiao?tab=repositories&q=&type=&language=c&sort=), C++,e um pouco da tríade do front-end (JavaScript, HTML e CSS).
 
-#### Meus principais projetos pessoais:
-
-* [Poupy](https://poupy.henriquesebastiao.com/): Um aplicativo web para gestão de orçamento pessoal feito com Django.
-* [Modernização do Manejo API](https://github.com/henriquesebastiao/modernizacao-manejo-api): Uma API async robusta para gestão de rebanhos construída com FastAPI.
-* [Timesheet](https://github.com/henriquesebastiao/timesheet): Um sistema simples de ponto eletrônico e exportação da folha de ponto em PDF usando Django Admin.
-* [Statbov](https://github.com/henriquesebastiao/statbov): Uma plataforma para acompanhamento de performance de bovinos desenvolvida com Django e Bootstrap.
-* [Netmikro](https://netmikro.henriquesebastiao.com/en/latest/): Uma API Python para administração de roteadores Mikrotik.
-* [Skyport](https://skyport.henriquesebastiao.com/en/latest/): CLI para obter informações sobre corpos celestes.
-* [Saturn](https://github.com/henriquesebastiao/saturn): Firmware de red team para o Cardputer, incluindo funcionalidades Wi-Fi e bluetooth e muito mais.
+Você pode ver meus projetos pessoais em meu [portifólio](https://henriquesebastiao.com/portifolio/).
 
 #### Você pode me encontrar em:
 
+* [Meu site: henriquesebastiao.com](https://henriquesebastiao.com/)
 * [Linkedin](https://www.linkedin.com/in/henriquesebastiao/)
 * [Email](mailto:contato@henriquesebastiao.com)
 
@@ -32,12 +29,24 @@ Atualmente, tenho dedicado grande parte do meu tempo de estudo às atividades ac
 <div style="display: inline_block; pointer-events: none;">
   <h4>Tecnologias e ferramentas que utilizo:</h4>
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <img align="center" alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg">
   <img align="center" alt="FastAPI" height="30" width="40" style="color: green;" src="img/fastapi.svg">
+  <img align="center" alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg">
   <img align="center" alt="Docker" height="30" width="40" src="img/docker.svg">
   <img align="center" alt="Arduino" height="30" width="40" src="img/arduino.svg">
   <img align="center" alt="Arch Linux" width="30px" src="img/arch.svg">
+</div>
+
+<div style="display: inline_block">
+  <h4>Minhas redes sociais:</h4>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/henriquesebastiao/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn"></a>
+  <!-- Mastodon -->
+  <a href="https://bolha.us/@henriquesebastiao" target="_blank"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=flat&logo=mastodon&logoColor=white" target="_blank" alt="Mastodon"></a>
+  <!-- X -->
+  <a href="https://x.com/hick_hs" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white" target="_blank" alt="Twitter"></a>
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/hick.hs/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" target="_blank" alt="Instagram"></a>
 </div>
