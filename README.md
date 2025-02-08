@@ -1,9 +1,5 @@
 ### Olá! Eu sou [Henrique Sebastião](https://henriquesebastiao.com/about/) 👋
 
- ![Visits](https://komarev.com/ghpvc/?username=henriquesebastiao&label=Profile%20Visits&color=blue&style=flat)
- <a href="https://bolha.us/@henriquesebastiao" target="_blank"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=flat&logo=mastodon&logoColor=white" target="_blank" alt="Mastodon"></a>
- <a href="https://hub.docker.com/u/henriquesebastiao" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" target="_blank" alt="Docker"></a>
-
 Sou desenvolvedor de software e graduando em Ciência da Computação no Brasil. 🇧🇷
 
 Gosto de criar coisas com Python, bancos de dados SQL, Docker e estruturas de back-end modernas para resolver problemas
@@ -37,16 +33,4 @@ Você pode ver meus projetos pessoais em meu [portifólio](https://henriquesebas
   <img align="center" alt="Docker" height="30" width="40" src="img/docker.svg">
   <img align="center" alt="Arduino" height="30" width="40" src="img/arduino.svg">
   <img align="center" alt="Arch Linux" width="30px" src="img/arch.svg">
-</div>
-
-<div style="display: inline_block">
-  <h4>Minhas redes sociais:</h4>
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/henriquesebastiao/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn"></a>
-  <!-- Mastodon -->
-  <a href="https://bolha.us/@henriquesebastiao" target="_blank"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=flat&logo=mastodon&logoColor=white" target="_blank" alt="Mastodon"></a>
-  <!-- X -->
-  <a href="https://x.com/hick_hs" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white" target="_blank" alt="Twitter"></a>
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/hick.hs/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" target="_blank" alt="Instagram"></a>
 </div>
