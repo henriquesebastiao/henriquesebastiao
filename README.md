@@ -21,12 +21,12 @@ Você pode ver meus projetos pessoais em meu [portifólio](https://henriquesebas
   <!-- GitHub Stats -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=henriquesebastiao&theme=github_dark&show_icons=true&icon_color=4B8DDA&border_color=3D444D&locale=pt-br&custom_title=Contribuições&border_radius=5">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=henriquesebastiao&theme=default&show_icons=true&icon_color=4B8DDA&border_color=3D444D&locale=pt-br&custom_title=Contribuições&border_radius=5" target="_blank" alt="GitHub Stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=henriquesebastiao&theme=default&show_icons=true&icon_color=4B8DDA&border_color=D1D9E0&locale=pt-br&custom_title=Contribuições&border_radius=5" target="_blank" alt="GitHub Stats">
   </picture>
   <!-- GitHub Stats Top Languages -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquesebastiao&locale=pt-br&layout=compact&theme=github_dark&exclude_repo=data-science-from-scrath,fastapi-do-zero,henriquesebastiao.github.io,uart,modernizacao-manejo,repository-page,language-benchmark&border_color=3D444D&border_radius=5&langs_count=8&card_width=340">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquesebastiao&locale=pt-br&layout=compact&theme=deafult&exclude_repo=data-science-from-scrath,fastapi-do-zero,henriquesebastiao.github.io,uart,modernizacao-manejo,repository-page,language-benchmark&border_color=3D444D&border_radius=5&langs_count=8&card_width=340" target="_blank" alt="GitHub Stats" target="_blank" alt="Mosty used languages">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquesebastiao&locale=pt-br&layout=compact&theme=github_dark&exclude_repo=henriquesebastiao.github.io,modernizacao-manejo,repository-page&border_color=3D444D&border_radius=5&langs_count=8&card_width=340">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquesebastiao&locale=pt-br&layout=compact&theme=deafult&exclude_repo=henriquesebastiao.github.io,modernizacao-manejo,repository-page&border_color=D1D9E0&border_radius=5&langs_count=8&card_width=340" target="_blank" alt="Mosty used languages">
   </picture>
 </div>
 
