@@ -26,7 +26,7 @@ Você pode ver meus projetos pessoais em meu [portifólio](https://henriquesebas
   <!-- GitHub Stats Top Languages -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquesebastiao&locale=pt-br&layout=compact&theme=github_dark&exclude_repo=data-science-from-scrath,fastapi-do-zero,henriquesebastiao.github.io,uart,modernizacao-manejo,repository-page,language-benchmark&border_color=3D444D&border_radius=5&langs_count=8&card_width=340">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquesebastiao&locale=pt-br&layout=compact&theme=github_dark&exclude_repo=data-science-from-scrath,fastapi-do-zero,henriquesebastiao.github.io,uart,modernizacao-manejo,repository-page,language-benchmark&border_color=3D444D&border_radius=5&langs_count=8&card_width=340" target="_blank" alt="GitHub Stats" target="_blank" alt="Mosty used languages">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquesebastiao&locale=pt-br&layout=compact&theme=deafult&exclude_repo=data-science-from-scrath,fastapi-do-zero,henriquesebastiao.github.io,uart,modernizacao-manejo,repository-page,language-benchmark&border_color=3D444D&border_radius=5&langs_count=8&card_width=340" target="_blank" alt="GitHub Stats" target="_blank" alt="Mosty used languages">
   </picture>
 </div>
 
