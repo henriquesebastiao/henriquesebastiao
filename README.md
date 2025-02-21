@@ -26,7 +26,7 @@ Você pode ver meus projetos pessoais em meu [portifólio](https://henriquesebas
   <!-- GitHub Stats Top Languages -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquesebastiao&locale=pt-br&layout=compact&theme=github_dark&exclude_repo=henriquesebastiao.github.io,modernizacao-manejo,repository-page&border_color=3D444D&border_radius=5&langs_count=8&card_width=340">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquesebastiao&locale=pt-br&layout=compact&theme=deafult&exclude_repo=henriquesebastiao.github.io,modernizacao-manejo,repository-page&border_color=D1D9E0&border_radius=5&langs_count=8&card_width=340" target="_blank" alt="Mosty used languages">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquesebastiao&locale=pt-br&layout=compact&theme=default&exclude_repo=henriquesebastiao.github.io,modernizacao-manejo,repository-page&border_color=D1D9E0&border_radius=5&langs_count=8&card_width=340" target="_blank" alt="Mosty used languages">
   </picture>
 </div>
 
