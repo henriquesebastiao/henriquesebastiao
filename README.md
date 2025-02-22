@@ -2,13 +2,9 @@
 
 <!-- BADGES -->
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:contato@henriquesebastiao.com)
-<sub>ㅤ</sub>
 [![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=flat&logo=mastodon&logoColor=white)](https://bolha.us/@henriquesebastiao)
-<sub>ㅤ</sub>
-[![GitHub lohhans](https://img.shields.io/github/followers/henriquesebastiao?label=follow&style=social)](https://github.com/henriquesebastiao)
-<sub>ㅤ</sub>
-[![GitHub lohhans](https://komarev.com/ghpvc/?username=henriquesebastiao&label=Profile%20views&color=4493F8&style=flat)](https://github.com/henriquesebastiao)
-<sub>ㅤ</sub>
+[![GitHub Views](https://komarev.com/ghpvc/?username=henriquesebastiao&label=Profile%20views&color=4493F8&style=flat)](https://github.com/henriquesebastiao)
+[![GitHub Followers](https://img.shields.io/github/followers/henriquesebastiao?label=follow&style=social)](https://github.com/henriquesebastiao)
 
 Sou desenvolvedor de software e graduando em Ciência da Computação no Brasil. 🇧🇷
 
