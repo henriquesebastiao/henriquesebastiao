@@ -1,11 +1,5 @@
 ### Olá! Eu sou [Henrique Sebastião](https://henriquesebastiao.com/about/) 👋
 
-<!-- BADGES -->
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:contato@henriquesebastiao.com)
-[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=flat&logo=mastodon&logoColor=white)](https://bolha.us/@henriquesebastiao)
-[![GitHub Views](https://komarev.com/ghpvc/?username=henriquesebastiao&label=Profile%20views&color=4493F8&style=flat)](https://github.com/henriquesebastiao)
-[![GitHub Followers](https://img.shields.io/github/followers/henriquesebastiao?label=follow&style=social)](https://github.com/henriquesebastiao)
-
 Sou desenvolvedor de software e graduando em Ciência da Computação no Brasil. 🇧🇷
 
 Gosto de criar coisas com Python, bancos de dados SQL, Docker e estruturas de back-end modernas para resolver problemas
@@ -38,7 +32,12 @@ Você pode ver meus projetos pessoais em meu [**portifólio**][portifolio].
 
 [<img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">][python]
 [<img align="center" alt="FastAPI" height="30" width="40" style="color: green;" src="img/fastapi.svg">][fastapi]
-[<img align="center" alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg">][django]
+[
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/076c1d10-20b3-4f47-a000-696f3b1d0dc5">
+    <img align="center" alt="Django" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" target="_blank" alt="Django">
+  </picture>
+][django]
 [<img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">][html]
 [<img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">][css]
 [<img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg">][postgresql]
@@ -46,7 +45,6 @@ Você pode ver meus projetos pessoais em meu [**portifólio**][portifolio].
 [<img align="center" alt="Arduino" height="30" width="40" src="https://github.com/user-attachments/assets/6517ed9c-e8db-491e-bd26-8bf858bf43e3">][arduino]
 [<img align="center" alt="Arch Linux" width="30px" src="https://github.com/user-attachments/assets/40578128-d1a2-45a6-912a-2641505a7f42">][archlinux]
 
-<!-- LINK -->
 [website]: https://henriquesebastiao.com/
 [linkedin]: https://www.linkedin.com/in/henriquesebastiao/
 [email]: mailto:contato@henriquesebastiao.com
