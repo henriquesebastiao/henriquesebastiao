@@ -31,7 +31,7 @@ Você pode ver meus projetos pessoais em meu [**portifólio**][portifolio].
 #### Tecnologias e ferramentas que utilizo:
 
 [<img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">][python]
-[<img align="center" alt="FastAPI" height="30" width="40" style="color: green;" src="img/fastapi.svg">][fastapi]
+[<img align="center" alt="FastAPI" height="30" width="40" style="color: green;" src="https://github.com/user-attachments/assets/bd6f7bb5-72f7-4081-8735-616a1bf2f614">][fastapi]
 [
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/076c1d10-20b3-4f47-a000-696f3b1d0dc5">
