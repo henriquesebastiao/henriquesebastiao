@@ -1,19 +1,17 @@
-### Olá! Eu sou [Henrique Sebastião](https://henriquesebastiao.com/about/) 👋
+<h3>Olá! Eu sou <a href="https://henriquesebastiao.com/about/ target="_blank"">Henrique Sebastião</a> 👋</h3>
 
-Sou desenvolvedor de software e graduando em Ciência da Computação no Brasil. 🇧🇷
-
-Gosto de criar coisas com Python, bancos de dados SQL, Docker e estruturas de back-end modernas para resolver problemas
-das pessoas ao meu redor. Vez ou outra também me aventuro no estudo e desenvolvimento para embarcados como microcontroladores.
-
-Atualmente, tenho dedicado grande parte do meu tempo de estudo às atividades acadêmicas, estudando em paralelo tecnologias como [**Python**][python], [**FastAPI**][fastapi], [**Django**][django] e um pouco da tríade do front-end (JavaScript, HTML e CSS).
-
-Você pode ver meus projetos pessoais em meu [**portifólio**][portifolio].
+<p>Sou desenvolvedor de software e graduando em Ciência da Computação no Brasil. 🇧🇷</p>
+<p>Gosto de criar coisas com Python, bancos de dados SQL, Docker e estruturas de back-end modernas para resolver problemas das pessoas ao meu redor. Vez ou outra também me aventuro no estudo e desenvolvimento para embarcados como microcontroladores.</p>
+<p>Atualmente, tenho dedicado grande parte do meu tempo de estudo às atividades acadêmicas, estudando em paralelo tecnologias como <a href="https://www.python.org/"  target="_blank"><b>Python</b></a>, <a href="https://fastapi.tiangolo.com/"  target="_blank"><b>FastAPI</b></a>, <a href="https://www.djangoproject.com/"  target="_blank"><b>Django</b></a> e um pouco da tríade do front-end (JavaScript, HTML e CSS).</p>
+<p>Você pode ver meus projetos pessoais em meu <a href="https://henriquesebastiao.com/portfolio/" target="_blank"><b>portfólio</b></a>.</p>
 
 #### Você pode me encontrar em:
 
-* [Meu site: henriquesebastiao.com][website]
-* [Linkedin][linkedin]
-* [Email][email]
+<ul>
+  <li><a href="https://henriquesebastiao.com/" target="_blank">Meu site: henriquesebastiao.com</a></li>
+  <li><a href="https://henriquesebastiao.com/linkedin/" target="_blank">LinkedIn</a></li>
+  <li><a href="mailto:contato@henriquesebastiao.com" target="_blank">Email</a></li>
+</ul>
 
 #### Minhas estatísticas:
 
@@ -44,11 +42,6 @@ Você pode ver meus projetos pessoais em meu [**portifólio**][portifolio].
 [<img align="center" alt="Docker" height="30" width="40" src="https://github.com/user-attachments/assets/a560e720-28f1-4838-91cc-1844dec0c988">][docker]
 [<img align="center" alt="Arduino" height="30" width="40" src="https://github.com/user-attachments/assets/6517ed9c-e8db-491e-bd26-8bf858bf43e3">][arduino]
 [<img align="center" alt="Arch Linux" width="30px" src="https://github.com/user-attachments/assets/40578128-d1a2-45a6-912a-2641505a7f42">][archlinux]
-
-[website]: https://henriquesebastiao.com/
-[linkedin]: https://www.linkedin.com/in/henriquesebastiao/
-[email]: mailto:contato@henriquesebastiao.com
-[portifolio]: https://henriquesebastiao.com/portifolio/
 
 [python]: https://www.python.org/
 [fastapi]: https://fastapi.tiangolo.com/
