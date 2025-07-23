@@ -3,6 +3,9 @@
 <p>Sou desenvolvedor de software e graduando em Ciência da Computação no Brasil. 🇧🇷</p>
 <p>Gosto de criar coisas com Python, bancos de dados SQL, Docker e estruturas de back-end modernas para resolver problemas das pessoas ao meu redor. Vez ou outra também me aventuro no estudo e desenvolvimento para embarcados como microcontroladores.</p>
 <p>Atualmente, tenho dedicado grande parte do meu tempo de estudo às atividades acadêmicas, estudando em paralelo tecnologias como <a href="https://www.python.org/"  target="_blank"><b>Python</b></a>, <a href="https://fastapi.tiangolo.com/"  target="_blank"><b>FastAPI</b></a>, <a href="https://www.djangoproject.com/"  target="_blank"><b>Django</b></a> e um pouco da tríade do front-end (JavaScript, HTML e CSS).</p>
+
+<p>Veja os status de disponibilidade dos meus projetos pessoais pela <a href="https://status.henriquesebastiao.com/status/projetos-pessoais" target="_blank"><b>página de status</b></a>.</p>
+
 <p>Você pode ver meus projetos pessoais em meu <a href="https://henriquesebastiao.com/portfolio/" target="_blank"><b>portfólio</b></a>.</p>
 
 #### Você pode me encontrar em:
