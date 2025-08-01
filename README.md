@@ -1,19 +1,19 @@
-<h3>Olá! Eu sou <a href="https://henriquesebastiao.com/about/ target="_blank"">Henrique Sebastião</a> 👋</h3>
+<h3>Olá! Eu sou <a href="https://henriquesebastiao.com/about/">Henrique Sebastião</a> 👋</h3>
 
 <p>Sou desenvolvedor de software e graduando em Ciência da Computação no Brasil. 🇧🇷</p>
 <p>Gosto de criar coisas com Python, bancos de dados SQL, Docker e estruturas de back-end modernas para resolver problemas das pessoas ao meu redor. Vez ou outra também me aventuro no estudo e desenvolvimento para embarcados como microcontroladores.</p>
-<p>Atualmente, tenho dedicado grande parte do meu tempo de estudo às atividades acadêmicas, estudando em paralelo tecnologias como <a href="https://www.python.org/"  target="_blank"><b>Python</b></a>, <a href="https://fastapi.tiangolo.com/"  target="_blank"><b>FastAPI</b></a>, <a href="https://www.djangoproject.com/"  target="_blank"><b>Django</b></a> e um pouco da tríade do front-end (JavaScript, HTML e CSS).</p>
+<p>Atualmente, tenho dedicado grande parte do meu tempo de estudo às atividades acadêmicas, estudando em paralelo tecnologias como <a href="https://www.python.org/"><b>Python</b></a>, <a href="https://fastapi.tiangolo.com/"><b>FastAPI</b></a>, <a href="https://www.djangoproject.com/"><b>Django</b></a> e um pouco da tríade do front-end (JavaScript, HTML e CSS).</p>
 
-<p>Por vezes reflito sobre a <a href="https://life.henriquesebastiao.com/" target="_blank">minha vida</a>. Costumo passar o meu tempo livre em <a href="https://henriquesebastiao.com/projects/" target="_blank">vários pequenos projetos</a>. Ademais, sempre que tenho a oportunidade gosto de acampar, tocar uma boa música e ver as estrelas.</p>
+<p>Por vezes reflito sobre a <a href="https://life.henriquesebastiao.com/">minha vida</a>. Costumo passar o meu tempo livre em <a href="https://henriquesebastiao.com/projects/">vários pequenos projetos</a>. Ademais, sempre que tenho a oportunidade gosto de acampar, tocar uma boa música e ver as estrelas.</p>
 
-<p>Dê uma olhada no meu <a href="https://henriquesebastiao.com/assets/pdf/cv.pdf" target="_blank">currículo</a>. Você pode ver os meus projetos pessoais no meu <a href="https://henriquesebastiao.com/portfolio/" target="_blank">portfólio</a>. Veja os status de disponibilidade desses projetos pela <a href="https://status.henriquesebastiao.com/status/projetos-pessoais" target="_blank">página de status</a>.</p>
+<p>Dê uma olhada no meu <a href="https://henriquesebastiao.com/assets/pdf/cv.pdf">currículo</a>. Você pode ver os meus projetos pessoais no meu <a href="https://henriquesebastiao.com/portfolio/">portfólio</a>. Veja os status de disponibilidade desses projetos pela <a href="https://status.henriquesebastiao.com/status/projetos-pessoais">página de status</a>.</p>
 
 #### Você pode me encontrar em:
 
 <ul>
-  <li><a href="https://henriquesebastiao.com/" target="_blank">Meu site: henriquesebastiao.com</a></li>
-  <li><a href="https://henriquesebastiao.com/linkedin/" target="_blank">LinkedIn</a></li>
-  <li><a href="mailto:contato@henriquesebastiao.com" target="_blank">Email</a></li>
+  <li><a href="https://henriquesebastiao.com/">Meu site: henriquesebastiao.com</a></li>
+  <li><a href="https://henriquesebastiao.com/linkedin/">LinkedIn</a></li>
+  <li><a href="mailto:contato@henriquesebastiao.com">Email</a></li>
 </ul>
 
 #### Minhas estatísticas:
@@ -36,7 +36,7 @@
 [
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/076c1d10-20b3-4f47-a000-696f3b1d0dc5">
-    <img align="center" alt="Django" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" target="_blank" alt="Django">
+    <img align="center" alt="Django" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="Django">
   </picture>
 ][django]
 [<img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">][html]
