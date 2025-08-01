@@ -4,9 +4,9 @@
 <p>Gosto de criar coisas com Python, bancos de dados SQL, Docker e estruturas de back-end modernas para resolver problemas das pessoas ao meu redor. Vez ou outra também me aventuro no estudo e desenvolvimento para embarcados como microcontroladores.</p>
 <p>Atualmente, tenho dedicado grande parte do meu tempo de estudo às atividades acadêmicas, estudando em paralelo tecnologias como <a href="https://www.python.org/"  target="_blank"><b>Python</b></a>, <a href="https://fastapi.tiangolo.com/"  target="_blank"><b>FastAPI</b></a>, <a href="https://www.djangoproject.com/"  target="_blank"><b>Django</b></a> e um pouco da tríade do front-end (JavaScript, HTML e CSS).</p>
 
-<p>Veja os status de disponibilidade dos meus projetos pessoais pela <a href="https://status.henriquesebastiao.com/status/projetos-pessoais" target="_blank"><b>página de status</b></a>.</p>
+<p>Por vezes reflito sobre a <a href="https://life.henriquesebastiao.com/" target="_blank">minha vida</a>. Costumo passar o meu tempo livre em <a href="https://henriquesebastiao.com/projects/" target="_blank">vários pequenos projetos</a>. Ademais, sempre que tenho a oportunidade gosto de acampar, tocar uma boa música e ver as estrelas.</p>
 
-<p>Você pode ver meus projetos pessoais em meu <a href="https://henriquesebastiao.com/portfolio/" target="_blank"><b>portfólio</b></a>.</p>
+<p>Dê uma olhada no meu <a href="https://henriquesebastiao.com/assets/pdf/cv.pdf" target="_blank">currículo</a>. Você pode ver os meus projetos pessoais no meu <a href="https://henriquesebastiao.com/portfolio/" target="_blank">portfólio</a>. Veja os status de disponibilidade desses projetos pela <a href="https://status.henriquesebastiao.com/status/projetos-pessoais" target="_blank">página de status</a>.</p>
 
 #### Você pode me encontrar em:
 
