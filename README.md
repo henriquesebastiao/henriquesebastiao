@@ -20,12 +20,6 @@
 
 [<img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">][python]
 [<img align="center" alt="FastAPI" height="30" width="40" style="color: green;" src="https://github.com/user-attachments/assets/bd6f7bb5-72f7-4081-8735-616a1bf2f614">][fastapi]
-[
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/076c1d10-20b3-4f47-a000-696f3b1d0dc5">
-    <img align="center" alt="Django" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="Django">
-  </picture>
-][django]
 [<img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">][html]
 [<img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">][css]
 [<img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg">][postgresql]
@@ -35,7 +29,6 @@
 
 [python]: https://www.python.org/
 [fastapi]: https://fastapi.tiangolo.com/
-[django]: https://www.djangoproject.com/
 [html]: https://developer.mozilla.org/pt-BR/docs/Web/HTML
 [css]: https://developer.mozilla.org/pt-BR/docs/Web/CSS
 [postgresql]: https://www.postgresql.org/
