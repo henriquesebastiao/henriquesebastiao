@@ -6,7 +6,7 @@
 
 <p>Por vezes reflito sobre a <a href="https://life.henriquesebastiao.com/">minha vida</a>. Costumo passar o meu tempo livre em <a href="https://henriquesebastiao.com/projects/">vários pequenos projetos</a>. Ademais, sempre que tenho a oportunidade gosto de acampar, tocar uma boa música e ver as estrelas.</p>
 
-<p>Dê uma olhada no meu <a href="https://henriquesebastiao.com/assets/pdf/cv.pdf">currículo</a>. Você pode ver os meus projetos pessoais no meu <a href="https://henriquesebastiao.com/portfolio/">portfólio</a>. Veja os status de disponibilidade desses projetos pela <a href="https://status.henriquesebastiao.com/status/projetos-pessoais">página de status</a>.</p>
+<p>Dê uma olhada no meu <a href="https://henriquesebastiao.com/assets/pdf/cv.pdf">currículo</a>. Você pode ver os meus projetos pessoais no meu <a href="https://henriquesebastiao.com/portfolio/">portfólio</a>.
 
 #### Você pode me encontrar em:
 
