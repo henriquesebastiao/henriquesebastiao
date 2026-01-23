@@ -16,6 +16,12 @@
   <li><a href="mailto:contato@henriquesebastiao.com">Email</a></li>
 </ul>
 
+#### Chave pública GPG
+
+Se você quiser me enviar mensagens criptografadas ou verificar arquivos assinados por mim, use a minha [chave pública GPG](https://henriquesebastiao.com/assets/gpg/public-key.txt).
+
+Fingerprint: `9FB4 E2C4 4F1F 5904 9C24  116C 6F5C 3CD7 0297 6E14`
+
 #### Tecnologias e ferramentas que utilizo:
 
 [<img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">][python]
