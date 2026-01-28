@@ -22,6 +22,19 @@ Se você quiser me enviar mensagens criptografadas ou verificar arquivos assinad
 
 Fingerprint: `9FB4 E2C4 4F1F 5904 9C24  116C 6F5C 3CD7 0297 6E14`
 
+#### Minhas estatísticas:
+
+<div style="display: inline_block">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=henriquesebastiao&theme=github_dark&show_icons=true&icon_color=4B8DDA&border_color=3D444D&locale=pt-br&custom_title=Contribuições&border_radius=5">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=henriquesebastiao&theme=default&show_icons=true&icon_color=4B8DDA&border_color=D1D9E0&locale=pt-br&custom_title=Contribuições&border_radius=5" target="_blank" alt="GitHub Stats">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquesebastiao&locale=pt-br&layout=compact&theme=github_dark&exclude_repo=modernizacao-manejo&border_color=3D444D&border_radius=5&langs_count=8&card_width=340">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquesebastiao&locale=pt-br&layout=compact&theme=default&exclude_repo=modernizacao-manejo&border_color=D1D9E0&border_radius=5&langs_count=8&card_width=340" target="_blank" alt="Mosty used languages">
+  </picture>
+</div>
+
 #### Tecnologias e ferramentas que utilizo:
 
 [<img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">][python]
