@@ -1,8 +1,8 @@
 <h3>Olá! Eu sou <a href="https://henriquesebastiao.com/about/">Henrique Sebastião</a> 👋</h3>
 
-<p>Sou desenvolvedor de software e graduando em Ciência da Computação no Brasil. 🇧🇷</p>
+<p>Sou desenvolvedor de software e bacharel em Ciência da Computação no Brasil. 🇧🇷</p>
 <p>Gosto de criar coisas com Python, bancos de dados SQL, Docker e estruturas de back-end modernas para resolver problemas das pessoas ao meu redor. Vez ou outra também me aventuro no estudo e desenvolvimento para embarcados como microcontroladores.</p>
-<p>Atualmente, tenho dedicado grande parte do meu tempo de estudo às atividades acadêmicas, estudando em paralelo tecnologias como <a href="https://www.python.org/"><b>Python</b></a>, <a href="https://fastapi.tiangolo.com/"><b>FastAPI</b></a>, <a href="https://www.djangoproject.com/"><b>Django</b></a> e um pouco da tríade do front-end (JavaScript, HTML e CSS).</p>
+<p>Atualmente, tenho dedicado grande parte do meu tempo de estudo à tecnologias como <a href="https://www.python.org/"><b>Python</b></a>, <a href="https://fastapi.tiangolo.com/"><b>FastAPI</b></a>, <a href="https://www.djangoproject.com/"><b>Django</b></a> e um pouco da tríade do front-end (JavaScript, HTML e CSS). Quando aprendo algo novo gosto de documentar isso na minha <a href="https://wiki.henriquesebastiao.com/">Wiki</a>.</p>
 
 <p>Por vezes reflito sobre a <a href="https://life.henriquesebastiao.com/">minha vida</a>. Costumo passar o meu tempo livre em <a href="https://henriquesebastiao.com/projects/">vários pequenos projetos</a>. Ademais, sempre que tenho a oportunidade gosto de acampar, tocar uma boa música e ver as estrelas.</p>
 
@@ -11,7 +11,7 @@
 #### Você pode me encontrar em:
 
 <ul>
-  <li><a href="https://henriquesebastiao.com/">Meu site: henriquesebastiao.com</a></li>
+  <li><a href="https://henriquesebastiao.com/">Meu blog: henriquesebastiao.com</a></li>
   <li><a href="https://henriquesebastiao.com/linkedin/">LinkedIn</a></li>
   <li><a href="mailto:contato@henriquesebastiao.com">Email</a></li>
 </ul>
