@@ -26,6 +26,7 @@ Fingerprint: `9FB4 E2C4 4F1F 5904 9C24  116C 6F5C 3CD7 0297 6E14`
 
 [<img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">][python]
 [<img align="center" alt="FastAPI" height="30" width="40" style="color: green;" src="https://github.com/user-attachments/assets/bd6f7bb5-72f7-4081-8735-616a1bf2f614">][fastapi]
+[<img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">][javascript]
 [<img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">][html]
 [<img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">][css]
 [<img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg">][postgresql]
@@ -35,6 +36,7 @@ Fingerprint: `9FB4 E2C4 4F1F 5904 9C24  116C 6F5C 3CD7 0297 6E14`
 
 [python]: https://www.python.org/
 [fastapi]: https://fastapi.tiangolo.com/
+[javascript]: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
 [html]: https://developer.mozilla.org/pt-BR/docs/Web/HTML
 [css]: https://developer.mozilla.org/pt-BR/docs/Web/CSS
 [postgresql]: https://www.postgresql.org/
