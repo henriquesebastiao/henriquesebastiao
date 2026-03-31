@@ -20,7 +20,7 @@
 
 Se você quiser me enviar mensagens criptografadas ou verificar arquivos assinados por mim, use a minha [chave pública GPG](https://henriquesebastiao.com/assets/gpg/public-key.txt).
 
-Fingerprint: `9FB4 E2C4 4F1F 5904 9C24  116C 6F5C 3CD7 0297 6E14`
+Fingerprint: `9FB4 E2C4 4F1F 5904 9C24 116C 6F5C 3CD7 0297 6E14`
 
 #### Tecnologias e ferramentas que utilizo:
 
