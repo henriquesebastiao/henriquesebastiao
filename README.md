@@ -21,25 +21,3 @@
 Se você quiser me enviar mensagens criptografadas ou verificar arquivos assinados por mim, use a minha [chave pública GPG](https://henriquesebastiao.com/assets/gpg/public-key.txt).
 
 Fingerprint: `9FB4 E2C4 4F1F 5904 9C24 116C 6F5C 3CD7 0297 6E14`
-
-#### Tecnologias e ferramentas que utilizo:
-
-[<img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">][python]
-[<img align="center" alt="FastAPI" height="30" width="40" style="color: green;" src="https://github.com/user-attachments/assets/bd6f7bb5-72f7-4081-8735-616a1bf2f614">][fastapi]
-[<img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">][javascript]
-[<img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">][html]
-[<img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">][css]
-[<img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg">][postgresql]
-[<img align="center" alt="Docker" height="30" width="40" src="https://github.com/user-attachments/assets/a560e720-28f1-4838-91cc-1844dec0c988">][docker]
-[<img align="center" alt="Arduino" height="30" width="40" src="https://github.com/user-attachments/assets/6517ed9c-e8db-491e-bd26-8bf858bf43e3">][arduino]
-[<img align="center" alt="Arch Linux" width="30px" src="https://github.com/user-attachments/assets/40578128-d1a2-45a6-912a-2641505a7f42">][archlinux]
-
-[python]: https://www.python.org/
-[fastapi]: https://fastapi.tiangolo.com/
-[javascript]: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
-[html]: https://developer.mozilla.org/pt-BR/docs/Web/HTML
-[css]: https://developer.mozilla.org/pt-BR/docs/Web/CSS
-[postgresql]: https://www.postgresql.org/
-[docker]: https://www.docker.com/
-[arduino]: https://www.arduino.cc/
-[archlinux]: https://archlinux.org/
