@@ -11,7 +11,7 @@
 #### Você pode me encontrar em:
 
 <ul>
-  <li><a href="https://blog.henriquesebastiao.com/">Meu blog: henriquesebastiao.com</a></li>
+  <li><a href="https://blog.henriquesebastiao.com/">Meu blog: blog.henriquesebastiao.com</a></li>
   <li><a href="https://blog.henriquesebastiao.com/linkedin/">LinkedIn</a></li>
   <li><a href="mailto:contato@henriquesebastiao.com">Email</a></li>
 </ul>
